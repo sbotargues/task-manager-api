@@ -47,8 +47,6 @@ El servidor estará disponible en **http://localhost:8000**
 
 ## Endpoints
 
-## Endpoints
-
 ### Crear una tarea
 
 - **POST** `/api/tasks`
